@@ -17,6 +17,10 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "categories": {
+      "via": "restaurants",
+      "collection": "category"
     }
   }
 }
